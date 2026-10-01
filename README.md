@@ -17,14 +17,14 @@
 🚀 I enjoy working on projects that challenge me to learn something new.<br><br> 
 
 ## 📚 Currently Learning<br><br> 
-- 💻 Programming & Software Development<br>
+ 💻 Programming & Software Development<br>
  🌐 Web Development<br>-
  🗄️ Databases<br>-
  🔧 Git & GitHub<br>-
  🧩 Problem Solving<br>-
  🎨 UI/UX Design<br><br>
  
-## 🎯 My Goals<br><br> -
+## 🎯 My Goals<br><br> 
 Become a skilled and confident developer<br>-
 Build useful and creative projects<br>-
 Improve my programming skills<br>-
@@ -33,13 +33,13 @@ Learn more about modern technologies<br>-
 Contribute to open-source projects<br>-
 Create a strong portfolio through 
 GitHub<br><br> 
-## ❤️ Interests<br><br> - 
+## ❤️ Interests<br><br> 
 💻 Coding & Programming<br>-
 🌐 Web Development<br>-
 🎨 Design & Creativity<br>-
 📱 Technology<br>-
 📚 Learning New Things<br>- 🤝 Collaborating with Others<br><br>---<br><br> 
-✨ _"Keep learning, keep building, and keep growing."_
+✨ _"Keep learning, keep building, and keep growing."
 
 
 ## 🌐 Socials:
