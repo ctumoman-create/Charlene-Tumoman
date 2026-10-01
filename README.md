@@ -66,3 +66,41 @@ GitHub<br><br>
 [![](https://komarev.com/ghpvc/?username=ctumoman-create &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ctumoman-create&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ctumoman-create&theme=monokai&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ctumoman-create&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ctumoman-create&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ctumoman-create&theme=monokai)
+
+---
+
+## 💬 Random Dev Quote
+
+> "First, solve the problem. Then, write the code."
+
+
