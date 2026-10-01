@@ -1,4 +1,10 @@
-# Charlene-Tumoman
+# 👋 Hi I'm Charlene-Tumoman
+
+🫶 Welcome to my GitHub!
+
+🎓 3rd- Year BSIS Student 
+📍 Sigapod Midsalip, Zamboanga Del Sur
+
 # 💫 About Me:
 <br># 👋 Hi, I'm Charlene Tumoman!<br><br> Welcome to my GitHub profile! 💻✨\<br> I'm a passionate learner who enjoys exploring technology, creating projects, and improving my skills one step at a time.<br><br> ## 👩‍💻 About Me<br><br> - 🎓 I'm currently learning and developing my skills in programming.<br>- 💡 I enjoy discovering new technologies and learning how things work.<br>- 🌱 I'm always looking for opportunities to grow and improve.<br>- 🚀 I enjoy working on projects that challenge me to learn something new.<br><br> ## 📚 Currently Learning<br><br> - 💻 Programming & Software Development<br>- 🌐 Web Development<br>- 🗄️ Databases<br>- 🔧 Git & GitHub<br>- 🧩 Problem Solving<br>- 🎨 UI/UX Design<br><br> ## 🎯 My Goals<br><br> - Become a skilled and confident developer<br>- Build useful and creative projects<br>- Improve my programming skills<br>- Learn more about modern technologies<br>- Contribute to open-source projects<br>- Create a strong portfolio through GitHub<br><br> ## ❤️ Interests<br><br> - 💻 Coding & Programming<br>- 🌐 Web Development<br>- 🎨 Design & Creativity<br>- 📱 Technology<br>- 📚 Learning New Things<br>- 🤝 Collaborating with Others<br><br>---<br><br> ✨ _"Keep learning, keep building, and keep growing."_
 
