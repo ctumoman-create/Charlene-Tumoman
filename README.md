@@ -7,20 +7,23 @@
 📍 Sigapod Midsalip, Zamboanga Del Sur
 
 # 💫 About Me:
-#🎓 I'm currently learning and developing my skills in programming.<br>- 
 
-💡 I enjoy discovering new technologies and learning how things work.<br>- 
+#🎓 I'm currently learning and developing my skills in programming.<br> 
 
-🌱 I'm always looking for opportunities to grow and improve.<br>-
+💡 I enjoy discovering new technologies and learning how things work.<br>
+
+🌱 I'm always looking for opportunities to grow and improve.<br>
 
 🚀 I enjoy working on projects that challenge me to learn something new.<br><br> 
 
 ## 📚 Currently Learning<br><br> 
-- 💻 Programming & Software Development<br>-
-- 🌐 Web Development<br>- 🗄️ Databases<br>-
-- 🔧 Git & GitHub<br>-
-- 🧩 Problem Solving<br>-
--  🎨 UI/UX Design<br><br>
+- 💻 Programming & Software Development<br>
+ 🌐 Web Development<br>-
+ 🗄️ Databases<br>-
+ 🔧 Git & GitHub<br>-
+ 🧩 Problem Solving<br>-
+ 🎨 UI/UX Design<br><br>
+ 
 ## 🎯 My Goals<br><br> -
 Become a skilled and confident developer<br>-
 Build useful and creative projects<br>-
