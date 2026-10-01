@@ -41,9 +41,6 @@ GitHub<br><br>
 📚 Learning New Things<br>- 🤝 Collaborating with Others<br><br>---<br><br> 
 ✨ _"Keep learning, keep building, and keep growing."
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Charlene Flores Tumoman ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Charlene Teves flores) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Charlene Flores Tumoman) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Charlene Tumoman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ctumoman@gmail.com) 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/CharleneFloresTumoman)
